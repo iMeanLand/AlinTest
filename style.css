@@ -1,5 +1,9 @@
 /* Hello */
 
 body {
-	background: #efefef;
+	background: green;
+}
+
+h2 {
+	color: green;
 }
