@@ -7,3 +7,12 @@ body {
 h2 {
 	color: green;
 }
+
+.wrap {
+	background: grey;
+}
+
+.wrap p {
+	text-align: center;
+}
+
